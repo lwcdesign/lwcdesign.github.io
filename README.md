@@ -1,2 +1,2 @@
-# lwcdesign.github.io
-lwc.design
+# Initial page
+
