@@ -1,4 +1,8 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Home](README.md)
+
+## Components
+
+* [Empty State](components/empty-state.md)
 
