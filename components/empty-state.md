@@ -8,5 +8,3 @@ description: >-
 
 You can find Lightning Design System guidelines for empty state [here](https://www.lightningdesignsystem.com/guidelines/empty-state).
 
-
-
